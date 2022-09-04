@@ -1,5 +1,5 @@
 # Calculator
 Stylish calculator with dark theme
 
-<img src="Screenshot_1.png" alt="example light mod">
+![IMAGE_DESCRIPTION](https://klike.net/uploads/posts/2019-05/1556708032_1.jpg)
 <img src="Screenshot_2.png" alt="example dark mod">
